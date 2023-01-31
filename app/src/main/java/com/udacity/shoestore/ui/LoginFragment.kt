@@ -17,6 +17,9 @@ class LoginFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_login, container, false);
+        binding.singInButton.setOnClickListener{
+
+        }
         return binding.root
     }
 

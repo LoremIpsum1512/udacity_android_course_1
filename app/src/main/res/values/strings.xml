@@ -15,4 +15,9 @@
     <string name="password_hint">Password</string>
     <string name="sign_in_btn_txt">Sign In</string>
     <string name="sign_up_btn_txt">Sign Up</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="continue_btn_txt">Continue</string>
+    <string name="instruction_title">Instruction</string>
+    <string name="instruction_description">Next screen showing list of shoes. Press + button for adding new one.</string>
 </resources>
